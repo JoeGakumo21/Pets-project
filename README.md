@@ -39,6 +39,10 @@ This project is about our favorite pets
 </tr>
 </table>
 
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 
 # licence
  <span style="color:red;font-size:20px"> &copy; 2021</span> <span style="color:green; font-size:20px">JoeTito</span>
