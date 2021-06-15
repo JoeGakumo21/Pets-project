@@ -38,3 +38,7 @@ This project is about our favorite pets
 <td>100kg</td>
 </tr>
 </table>
+
+
+# licence
+ <span style="color:red;font-size:20px"> &copy; 2021</span> <span style="color:green; font-size:20px">JoeTito</span>
